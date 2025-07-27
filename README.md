@@ -18,9 +18,13 @@ The project is hosted on GitHub Pages.
 
 David-Peralta Portfolio: https://david-peralta-rd.github.io/my-portfolio-v2/
 
-
-
-
+✅ You may:
+Use the structure, code, and logic as the basis for your own portfolio.
+Freely modify the files to suit your profile.
+🚫 You may not:
+Use my personal images, name, data, or generated avatar as if they were your own.
+Upload this project without modifying the visual identity, text, or personal information.
+Clone the entire site without attribution and publish it as your own.
 
 ## License
 
