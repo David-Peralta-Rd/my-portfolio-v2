@@ -305,6 +305,7 @@ header ul a {
     color: gray;
     font-size: 13px;
     line-height: 20px;
+    margin-top: 5px;
 }
 
 .card video {
