@@ -269,7 +269,7 @@ header ul a {
 .card {
     display: flex;
     align-items: flex-start;
-    justify-content: space-between;
+    justify-content: center;
     position: relative;
     width: auto;
     height: 40vh;
