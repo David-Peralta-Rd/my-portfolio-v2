@@ -297,16 +297,15 @@ header ul a {
 }
 
 .card p {
-    position: static;
+    position: absolute;
     bottom: 3%;
     left: 5%;
-    right: 5%;
     z-index: 1;
     max-width: 300px;
     color: gray;
     font-size: 13px;
     line-height: 20px;
-    margin-top: 10%;
+    margin-top: 90%;
 }
 
 .card video {
