@@ -297,9 +297,10 @@ header ul a {
 }
 
 .card p {
-    position: absolute;
+    position: static;
     bottom: 3%;
     left: 5%;
+    right: 5%;
     z-index: 1;
     max-width: 300px;
     color: gray;
