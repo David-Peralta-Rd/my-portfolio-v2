@@ -269,7 +269,7 @@ header ul a {
 .card {
     display: flex;
     align-items: flex-start;
-    justify-content: center;
+    justify-content: space-between;
     position: relative;
     width: auto;
     height: 40vh;
@@ -297,15 +297,13 @@ header ul a {
 }
 
 .card p {
-    position: absolute;
-    bottom: 3%;
-    left: 5%;
-    z-index: 1;
-    max-width: 300px;
+    position: static;
+    margin-top: 10px;
+    padding: 0 15px 15px 15px;
     color: gray;
     font-size: 13px;
-    line-height: 20px;
-    margin-top: 90%;
+    line-height: 1.6;
+    max-width: 90%;
 }
 
 .card video {
